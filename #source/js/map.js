@@ -18,7 +18,7 @@ function map(n){
 		//pixelOffset: new google.maps.Size(-230,250)
 	});
 	var locations = [
-		[new google.maps.LatLng(53.819055,27.8813694)]
+		[new google.maps.LatLng(56.845369, 60.595711)]
 	]
 	var options = {
 		zoom: 10,
